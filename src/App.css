@@ -1,0 +1,215 @@
+
+*{
+  margin-top: 3%;
+}
+.fullpage{
+  background-image: url('https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/6664413/910/605/m2/fpnw/wm1/jqk5pbxbcnlader2hyexnsclmjplafloukuxlw62rbmwjtbpks28ah994ufkl066-.jpg?1562852641&s=5d7df277b4e3425888a4357b7181faab');
+  background-position: left;
+ 
+}
+.btn{
+  color: white;
+  padding: 16px 25px;
+  margin: 15px auto;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  border-radius: 8px;
+  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.grid-container{
+  display:grid;
+  column-gap: 0px;
+  grid-template-columns: 400px 400px ;
+}
+.grid-container2{
+  display:grid;
+  column-gap: 0px;
+  grid-template-columns:  400px 75px ;
+}
+.gridinside{
+  display:grid;
+  column-gap: 10px;
+  grid-template-columns: 100px 100px 100px ;
+}
+.gridinsidegrid{
+  display:grid;
+   grid-template-rows: 30px 100px ;
+}
+
+.signup{
+ margin-left: 40%;
+}
+
+.border{
+  background-color: rgb(246, 242, 236);
+margin-left: 5%;
+  margin-right:40%;
+ text-align: center;
+ }
+
+ .logo{
+  background-image: url('C:\Users\DELL\Pictures\SHOPEASY.png');
+  height: 100px;
+  width:100px;
+  background-size: cover;
+  border: 1px solid rgb(30, 28, 28);
+  border-radius: 50%;
+  margin-left: 2%;
+  margin-top: -4%;
+ 
+}
+
+
+
+ .nav{
+        display:flex;
+        float:right;
+        font-size: 25px;        
+        margin: 10px;
+        margin-right: 5px;
+      
+       
+
+ }
+
+ li{
+  list-style-type:none;
+  margin-left: 30px;
+  margin-right: 30px;
+ }
+
+ 
+
+
+
+
+ 
+.content {
+  font-size: 25px;
+  border-radius:.25em;
+  box-shadow:0 0 .5em rgba(0,0,0,.25);
+  box-sizing:border-box;
+  margin-left:40%;
+  margin-right: -10%;
+
+  padding:3vmin;
+  text-align:center;
+  margin-top:10%;
+  transform:translate(-10%, -10%);
+}
+
+.slogan {
+  font-family:'Times New Roman', Times, serif;
+  color:rgb(13, 14, 12)
+}
+.content1 {
+  
+   height:200px;
+}
+
+
+.slogan1 {
+  font-family:'Times New Roman', Times, serif;
+  color:rgb(25, 24, 24);
+  font-size: 30px;
+  justify-content: center;
+  margin-left: 10%;
+}
+.footer{
+  background-color: rgb(66, 62, 62);
+  color: rgb(247, 244, 244);
+  font-size: 25px;
+  height:250px;
+  width:100%;
+  margin-bottom: -30%;
+ 
+
+
+  
+  
+}
+.footeritem{
+  display:flex;
+  float:center;
+ 
+}
+
+
+.getit{
+     background-image: url('https://tse1.mm.bing.net/th?id=OIP.Ro739XbObP73gjGTg0mrCwHaCM&pid=Api&P=0&h=180');
+     height:50px;
+     width:170px;
+     background-repeat: no-repeat;
+     background-size: contain;
+     border:1px solid black;
+     border-radius: 20px;
+     margin-left: 20%;
+   
+    }
+    .appstore{
+      
+      background-image: url('https://tse1.mm.bing.net/th?id=OIP.ZgivgsBKdCd-Qb_hazm-8wHaCM&pid=Api&P=0&h=180');
+      height:50px;
+      width:170px;
+      background-repeat: no-repeat;
+      background-size: contain;
+      border:1px solid black;
+      border-radius: 20px;
+}
+ 
+
+html, body {
+  width: 100%;
+  height:130%;
+}
+
+body {
+    background: linear-gradient(-45deg, rgb(88, 230, 218), #eeee57, #71ecc5, #85e33d);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
